@@ -87,7 +87,7 @@
                 
     });
 
-    //prompt for delete
+    //delete
     $("#tbl-ppl").on('click', '.btndel', function () {
         alert('Are you sure you want to delete?');
         const personId =   $(this).data('personid')
