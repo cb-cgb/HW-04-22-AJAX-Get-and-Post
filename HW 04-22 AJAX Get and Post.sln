@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW 04-22 AJAX Get and Post", "HW 04-22 AJAX Get and Post\HW 04-22 AJAX Get and Post.csproj", "{FB7120A6-8360-4961-98CF-B8C3E8DB3D71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-22AjaxGetPost.data", "4-22AjaxGetPost.data\4-22AjaxGetPost.data.csproj", "{EB93674E-E97A-4AAC-97F4-A79517424EA4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FB7120A6-8360-4961-98CF-B8C3E8DB3D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB7120A6-8360-4961-98CF-B8C3E8DB3D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB7120A6-8360-4961-98CF-B8C3E8DB3D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB93674E-E97A-4AAC-97F4-A79517424EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB93674E-E97A-4AAC-97F4-A79517424EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB93674E-E97A-4AAC-97F4-A79517424EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB93674E-E97A-4AAC-97F4-A79517424EA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
